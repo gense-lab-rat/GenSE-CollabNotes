@@ -1,0 +1,14 @@
+com\gense\controller\CommentController.class
+com\gense\repository\UserRepository.class
+com\gense\controller\NoteController.class
+com\gense\service\NoteService.class
+com\gense\repository\CommentRepository.class
+com\gense\controller\UserController.class
+com\gense\service\UserService.class
+com\gense\GenSeApp.class
+com\gense\model\Note.class
+com\gense\repository\NoteRepository.class
+com\gense\service\CommentService.class
+com\gense\model\User.class
+com\gense\service\impl\NoteServiceImpl.class
+com\gense\model\Comment.class

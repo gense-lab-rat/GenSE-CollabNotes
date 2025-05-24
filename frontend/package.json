@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^x.x.x",
+    "react": "^x.x.x",
+    "react-dom": "^x.x.x",
+    "react-router-dom": "^x.x.x"
+  },
+  "devDependencies": {
+    "typescript": "^x.x.x",
+    "vite": "^x.x.x",
+    "@vitejs/plugin-react": "^x.x.x",
+    "@types/react": "^x.x.x",
+    "@types/react-dom": "^x.x.x",
+    "@types/react-router-dom": "^x.x.x"
+  }
+}
